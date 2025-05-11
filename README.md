@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amandaaurora&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide=jupyter%20notebook" alt="ovi" />
 
 
 <!--
